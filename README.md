@@ -7,13 +7,12 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:giomong2346@naver.com)
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white)](https://jio.co)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/JioCode)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/JioCoder)
 
 </div>
 
----
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -34,9 +33,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 
----
 
-## 💼 Projects
+## Projects
 
 | 프로젝트 | 설명 | 스택 |
 |---|---|---|
@@ -47,9 +45,8 @@
 | **OTAKU MAP** | 취향 기반 서브컬처 탐방 서비스 · UMC 데모데이 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) |
 | **LG 라이프집** | 건강 데이터 기반 상품 추천 서비스 · LG 기업 협업 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) |
 
----
 
-## 🎓 Experience
+## Experience
 
 **동덕여자대학교 컴퓨터학과** (2023.03 ~)
 
@@ -64,17 +61,15 @@
 | 2024.08 | 멋쟁이사자처럼 12기 중앙 해커톤 |
 | 2024.03 ~ 2024.12 | 멋쟁이사자처럼 12기 FE 파트원 |
 
----
 
-## 📜 Certificate
+## Certificate
 
 ![ADsP](https://img.shields.io/badge/ADsP-1B4F72?style=flat-square)
 
----
 
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JioCode&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JioCode&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JioCoder&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JioCoder&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
