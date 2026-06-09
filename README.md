@@ -45,19 +45,19 @@
 
 ## Projects
 
-### 🐾 반려견 AI 에이전트
+### 반려견 AI 에이전트
 > 반려견 응급 대응 및 동물병원 예약 AI 모바일 앱
 
 `React Native` `TypeScript`
 
 
-### 🏔️ 세모산
+### 세모산
 > WebSocket/STOMP 기반 실시간 GPS 등산 앱
 
 `React Native` `TypeScript` `WebSocket` `STOMP`
 
 
-### 👶 PIKIE `2025.03 ~ 2025.10`
+### PIKIE `2025.03 ~ 2025.10`
 > gRPC + MSA 아키텍처 기반 유아용품 중고거래 플랫폼 (한이음 ICT 산학협력 프로젝트)
 
 `React Native` `TypeScript` `Zustand` `gRPC` `Styled-Components`
@@ -67,7 +67,7 @@
 - Zustand로 마이크로서비스 간 비동기 데이터 상태 통합 관리 → 불필요한 API 요청 감소 및 데이터 정합성 향상
 
 
-### 🔐 PrivaShield `2024.12 ~ 2025.03`
+### PrivaShield `2024.12 ~ 2025.03`
 > AI 기반 개인정보 보호 인터랙션 플랫폼 (정보보안 SW 웹/앱 개발 공모전 출품작)
 
 `React` `JavaScript` `CSS Modules` `Node.js` `MySQL`
@@ -78,7 +78,7 @@
 - 누적 보안 로그를 분석·정규화하여 **Chart.js 기반 대시보드**로 시각화 → 사용자 보안 습관에 대한 정량적 피드백 제공
 
 
-### 🗺️ OTAKU MAP `2024.12 ~ 2025.02`
+### OTAKU MAP `2024.12 ~ 2025.02`
 > 사용자 취향 기반 서브컬처 탐방 서비스 (UMC 7기 데모데이 출품작)
 
 `React` `TypeScript` `Styled-Components`
@@ -88,7 +88,7 @@
 - 반복 인터랙션 요소를 독립 컴포넌트로 추출 + 파운데이션 값 활용 커스텀 플러그인 개발 → 디자인 시스템 확장성 확보
 
 
-### 🏥 LG 라이프집(Lifezip) `2024.07 ~ 2024.08`
+### LG 라이프집(Lifezip) `2024.07 ~ 2024.08`
 > LG 기업 협업 — 건강 데이터 기반 개인화 상품 추천 서비스
 
 `React` `JavaScript` `Styled-Components`
