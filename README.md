@@ -113,10 +113,3 @@
 | 2024.12 ~ 2025.03 | **정보보안 SW 웹/앱 개발 공모전** — 개인정보 보호 AI 플랫폼 'PrivaShield' 기획·개발 |
 | 2024.08 | **멋쟁이사자처럼 12기 중앙 해커톤** — 아이디어 구체화부터 MVP 구현까지 단기 집중 개발 |
 | 2024.07 | **멋쟁이사자처럼 12기 여기톤(HERETHON)** — 기획·디자인 파트와 실시간 소통으로 UI/UX 구현 |
-
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JioCode&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JioCode&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
