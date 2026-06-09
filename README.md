@@ -67,7 +67,7 @@
 ![ADsP](https://img.shields.io/badge/ADsP-1B4F72?style=flat-square)
 
 
-## 📊 Stats
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JioCoder&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
