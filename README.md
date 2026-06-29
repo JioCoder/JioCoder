@@ -62,11 +62,6 @@
 | 2024.03 ~ 2024.12 | 멋쟁이사자처럼 12기 FE 파트원 |
 
 
-## Certificate
-
-![ADsP](https://img.shields.io/badge/ADsP-1B4F72?style=flat-square)
-
-
 ## Stats
 
 <div align="center">
