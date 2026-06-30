@@ -60,11 +60,3 @@
 | 2024.08 ~ 2025.03 | UMC 7기 Web 트랙 |
 | 2024.08 | 멋쟁이사자처럼 12기 중앙 해커톤 |
 | 2024.03 ~ 2024.12 | 멋쟁이사자처럼 12기 FE 파트원 |
-
-
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JioCoder&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JioCoder&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
