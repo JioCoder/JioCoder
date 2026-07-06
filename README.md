@@ -43,7 +43,7 @@
 | **PIKIE** | gRPC + MSA 기반 유아용품 중고거래 플랫폼 · 한이음 ICT | ![RN](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=React&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=Google&logoColor=white) |
 | **PrivaShield** | AI 기반 개인정보 보호 플랫폼 · 공모전 출품 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) |
 | **OTAKU MAP** | 취향 기반 서브컬처 탐방 서비스 · UMC 데모데이 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) |
-| **LG 라이프집** | 건강 데이터 기반 상품 추천 서비스 · LG 기업 협업 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) |
+| **LG 라이프집** | LG 기업 협업 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) |
 
 
 ## Experience
