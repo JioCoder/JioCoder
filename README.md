@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>선지오 (Jio Seon)</h2>
+<h2>선지오 (Jio Sun)</h2>
 
 <p>React · React Native · TypeScript 기반 프론트엔드 개발자<br/>
 컴포넌트 설계와 성능 최적화로 실사용 가능한 서비스를 만듭니다</p>
