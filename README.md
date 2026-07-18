@@ -37,15 +37,15 @@ React · React Native · TypeScript 기반 프론트엔드 개발자
 
 ## Projects
 
-| 프로젝트 | 설명 | 스택 | Repo |
-|---|---|---|---|
-| **반려견 AI Agent** | 반려견 응급 대응 및 동물병원 예약 지원 Agentic AI · 한이음 드림업 (진행중) | React Native · TypeScript · LangGraph · GPT-4o (VLM) | 진행중 |
-| **[세모산](https://github.com/SEMOSAN/SEMOSAN_FE)** | WebSocket 기반 실시간 GPS 등산 안전 앱 · KUSITMS 33기 최우수상 · 앱스토어 출시 | React Native · Expo · TanStack Query · Zustand | [GitHub](https://github.com/SEMOSAN/SEMOSAN_FE) |
-| **LG 라이프집** | 게이미피케이션·수익화·개인화 피드 고도화 · LG 기업 협업 우수상 | React 19 · TypeScript · Reanimated | 비공개 |
-| **[Real Match](https://github.com/RealMatchTeam/FE)** | 브랜드 × 마이크로 인플루언서 협업 매칭 플랫폼 · UMC 9기 데모데이 | React · TypeScript | [GitHub](https://github.com/RealMatchTeam/FE) |
-| **[PIKIE](https://github.com/Hanium2025/msa-client)** | gRPC + MSA 기반 유아용품 중고거래 플랫폼 · 한이음 ICT 멘토링 | React Native · TypeScript · gRPC · Zustand | [GitHub FE](https://github.com/Hanium2025/msa-client) · [GitHub BE](https://github.com/Hanium2025/msa-server) |
-| **[PrivaShield](https://github.com/PrivaShield)** | 실시간 개인정보 감지·익명화 플랫폼 · 정보보안 SW 공모전 | React · JavaScript · Chart.js · Node.js | [GitHub](https://github.com/PrivaShield) |
-| **[OTAKU MAP](https://github.com/OtakuMap/OtakuWeb)** | 취향 기반 서브컬처 탐방 지원 서비스 · UMC 7기 데모데이 | React · TypeScript · Zustand | [GitHub](https://github.com/OtakuMap/OtakuWeb) |
+| 프로젝트 | 설명 | 스택 |
+| --- | --- | --- |
+| **반려견 AI Agent** | 반려견 응급 대응 및 동물병원 예약 지원 AI 앱 (진행중) | ![RN](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) |
+| **[세모산](https://github.com/SEMOSAN/SEMOSAN_FE)** | WebSocket 기반 실시간 GPS 등산 앱 · 앱스토어 출시 | ![RN](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) |
+| **LG 라이프집** | LG 기업 협업 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) |
+| **[Real Match](https://github.com/RealMatchTeam/FE)** | 브랜드 × 마이크로 인플루언서 협업 매칭 플랫폼 · UMC 9기 데모데이 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) |
+| **[PIKIE](https://github.com/Hanium2025/msa-client)** | gRPC + MSA 기반 유아용품 중고거래 플랫폼 · 한이음 ICT | ![RN](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=React&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=Google&logoColor=white) |
+| **[PrivaShield](https://github.com/PrivaShield)** | AI 기반 개인정보 보호 플랫폼 · 공모전 출품 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) |
+| **[OTAKU MAP](https://github.com/OtakuMap/OtakuWeb)** | 취향 기반 서브컬처 탐방 서비스 · UMC 데모데이 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) |
 
 ## Experience
 
