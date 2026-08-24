@@ -3,7 +3,6 @@
 # 안녕하세요, 선지오입니다 👋
 
 ### React · React Native · TypeScript 기반 프론트엔드 개발자
-데이터로 근거를 찾고, 성능으로 증명하는 서비스를 만듭니다
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:giomong2346@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/JioCoder)
